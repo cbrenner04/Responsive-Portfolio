@@ -1,0 +1,31 @@
+.portfolio a {
+	color: #ffffff;
+}
+
+.portfolio-images {
+	margin: 20px;
+	float: left;
+	position: relative;
+}
+
+.portfolio-images:hover {
+    -ms-transform: rotate(-10deg);
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+}
+
+.portfolio-labels {
+	position: absolute;
+	bottom: 0;
+	height: 50px;
+	background-color: #4aaaa5;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.portfolio-labels p {
+	margin-top: 15px;
+}
