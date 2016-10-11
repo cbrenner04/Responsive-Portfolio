@@ -125,6 +125,7 @@ p {
 .regular-text {
 	color: #777777;
 	margin-top: 20px;
+	line-height: 1.25;
 }
 
 .sidebar {
@@ -175,10 +176,11 @@ footer {
 	border-width: 5px;
 	border-style: solid none none none;
 	border-color: #4aaaa5;
+	line-height: 1.25;
 }
 
 footer p {
-	margin: 25px auto 0;
+	margin: 15px auto 0;
 }
 
 footer a {
