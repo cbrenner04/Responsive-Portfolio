@@ -184,3 +184,20 @@ footer p {
 footer a {
 	color: #ffffff;
 }
+
+@media screen and (max-width: 980px) {
+	.container {
+		width: 720px;
+	}
+	.main-content {
+		width: 420px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+	
+}

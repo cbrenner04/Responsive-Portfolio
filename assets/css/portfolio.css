@@ -2,10 +2,14 @@
 	color: #ffffff;
 }
 
-.portfolio-images {
+.portfolio-icons {
 	margin: 20px;
 	float: left;
 	position: relative;
+}
+
+.portfolio-images {
+	width: 260px;
 }
 
 .portfolio-images:hover {
@@ -28,4 +32,10 @@
 
 .portfolio-labels p {
 	margin-top: 15px;
+}
+
+@media screen and (max-width: 980px) {
+	.portfolio-images {
+		width: 100%;
+	}
 }
