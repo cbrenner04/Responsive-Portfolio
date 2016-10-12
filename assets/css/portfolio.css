@@ -39,3 +39,15 @@
 		width: 100%;
 	}
 }
+
+@media screen and (max-width: 768px) {
+	.portfolio-images {
+		width: 240px;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.portfolio-images {
+		width: 100%;
+	}
+}
