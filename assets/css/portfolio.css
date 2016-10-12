@@ -12,7 +12,7 @@
 	width: 260px;
 }
 
-.portfolio-images:hover {
+.portfolio-icons:hover {
     -ms-transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
     -moz-transform: rotate(-10deg);
